@@ -1,0 +1,21 @@
+.repo-bg {
+  background-color: #888c89;
+  margin: 40px;
+  min-height: 200px;
+  margin-bottom: 10px;
+  display: flex;
+  padding: 10px;
+}
+.owner-image {
+  height: 200px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.repo-name {
+  font-size: 30px;
+}
+.for-stars {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
